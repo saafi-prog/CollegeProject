@@ -1,0 +1,602 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saafy\\College.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\college.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:college.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\mapping\\professeurmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:mapping\\professeurmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\mapping\\notemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:mapping\\notemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\mapping\\elevemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:mapping\\elevemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\mapping\\classemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:mapping\\classemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\infrastructure\\repositories\\eleverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:infrastructure\\repositories\\eleverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\dtos\\professeurdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:dtos\\professeurdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\dtos\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:dtos\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\dtos\\elevedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:dtos\\elevedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\dtos\\classedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:dtos\\classedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\domain\\interfaces\\ieleverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:domain\\interfaces\\ieleverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\domain\\entities\\professeurmatieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:domain\\entities\\professeurmatieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\domain\\entities\\professeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:domain\\entities\\professeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\domain\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:domain\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\domain\\entities\\matiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:domain\\entities\\matiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\domain\\entities\\eleve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:domain\\entities\\eleve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\domain\\entities\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:domain\\entities\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\controllers\\elevecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:controllers\\elevecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\controllers\\matierescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:controllers\\matierescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\controllers\\professeurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:controllers\\professeurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\data\\scripts\\03_seed.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:data\\scripts\\03_seed.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\data\\scripts\\02_tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:data\\scripts\\02_tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\data\\scripts\\01_create_db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:data\\scripts\\01_create_db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\data\\collegedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:data\\collegedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\college.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:college.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\wwwroot\\assets\\index-dn8d_cap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:wwwroot\\assets\\index-dn8d_cap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\wwwroot\\assets\\index-bnb5zv6g.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:wwwroot\\assets\\index-bnb5zv6g.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\data\\scripts\\01_create_db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:data\\scripts\\01_create_db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\data\\scripts\\02_tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:data\\scripts\\02_tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|c:\\users\\saafy\\college.api\\data\\scripts\\03_seed.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{CC0D03CA-3668-4713-87EB-E183BB3D8534}|College.Api.csproj|solutionrelative:data\\scripts\\03_seed.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EleveRepository.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Infrastructure\\Repositories\\EleveRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\EleveRepository.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Infrastructure\\Repositories\\EleveRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\EleveRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T10:11:59.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T09:58:39.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClasseMapping.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Mapping\\ClasseMapping.cs",
+              "RelativeDocumentMoniker": "Mapping\\ClasseMapping.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Mapping\\ClasseMapping.cs",
+              "RelativeToolTip": "Mapping\\ClasseMapping.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T14:00:37.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EleveMapping.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Mapping\\EleveMapping.cs",
+              "RelativeDocumentMoniker": "Mapping\\EleveMapping.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Mapping\\EleveMapping.cs",
+              "RelativeToolTip": "Mapping\\EleveMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T12:08:38.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NoteMapping.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Mapping\\NoteMapping.cs",
+              "RelativeDocumentMoniker": "Mapping\\NoteMapping.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Mapping\\NoteMapping.cs",
+              "RelativeToolTip": "Mapping\\NoteMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T12:05:36.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfesseurMapping.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Mapping\\ProfesseurMapping.cs",
+              "RelativeDocumentMoniker": "Mapping\\ProfesseurMapping.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Mapping\\ProfesseurMapping.cs",
+              "RelativeToolTip": "Mapping\\ProfesseurMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T12:29:45.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-15T12:53:06.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "College.Api.http",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\College.Api.http",
+              "RelativeDocumentMoniker": "College.Api.http",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\College.Api.http",
+              "RelativeToolTip": "College.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-21T13:35:12.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T11:55:39.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProfesseurDto.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Dtos\\ProfesseurDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\ProfesseurDto.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Dtos\\ProfesseurDto.cs",
+              "RelativeToolTip": "Dtos\\ProfesseurDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T09:05:26.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Dtos\\NoteDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\NoteDto.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Dtos\\NoteDto.cs",
+              "RelativeToolTip": "Dtos\\NoteDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T09:00:40.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EleveDto.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Dtos\\EleveDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\EleveDto.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Dtos\\EleveDto.cs",
+              "RelativeToolTip": "Dtos\\EleveDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:57:53.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClasseDto.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Dtos\\ClasseDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\ClasseDto.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Dtos\\ClasseDto.cs",
+              "RelativeToolTip": "Dtos\\ClasseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T13:59:48.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T09:08:07.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEleveRepository.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Domain\\Interfaces\\IEleveRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IEleveRepository.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Domain\\Interfaces\\IEleveRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IEleveRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T09:21:33.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProfesseurMatieres.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Domain\\Entities\\ProfesseurMatieres.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ProfesseurMatieres.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Domain\\Entities\\ProfesseurMatieres.cs",
+              "RelativeToolTip": "Domain\\Entities\\ProfesseurMatieres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:54:00.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Professeur.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Domain\\Entities\\Professeur.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Professeur.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Domain\\Entities\\Professeur.cs",
+              "RelativeToolTip": "Domain\\Entities\\Professeur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:51:11.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Domain\\Entities\\Note.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Note.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Domain\\Entities\\Note.cs",
+              "RelativeToolTip": "Domain\\Entities\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:56:04.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Matiere.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Domain\\Entities\\Matiere.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Matiere.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Domain\\Entities\\Matiere.cs",
+              "RelativeToolTip": "Domain\\Entities\\Matiere.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:52:32.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Eleve.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Domain\\Entities\\Eleve.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Eleve.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Domain\\Entities\\Eleve.cs",
+              "RelativeToolTip": "Domain\\Entities\\Eleve.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:44:19.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Classe.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Domain\\Entities\\Classe.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Classe.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Domain\\Entities\\Classe.cs",
+              "RelativeToolTip": "Domain\\Entities\\Classe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:47:56.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:40:58.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClassesController.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Controllers\\ClassesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClassesController.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Controllers\\ClassesController.cs",
+              "RelativeToolTip": "Controllers\\ClassesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T12:42:22.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EleveController.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Controllers\\EleveController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EleveController.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Controllers\\EleveController.cs",
+              "RelativeToolTip": "Controllers\\EleveController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAwwGoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T10:30:24.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MatieresController.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Controllers\\MatieresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MatieresController.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Controllers\\MatieresController.cs",
+              "RelativeToolTip": "Controllers\\MatieresController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T12:47:47.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "Controllers\\NotesController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T10:36:40.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProfesseursController.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Controllers\\ProfesseursController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfesseursController.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Controllers\\ProfesseursController.cs",
+              "RelativeToolTip": "Controllers\\ProfesseursController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwFIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T12:26:36.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "03_seed.sql ",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Data\\Scripts\\03_seed.sql",
+              "RelativeDocumentMoniker": "Data\\Scripts\\03_seed.sql",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Data\\Scripts\\03_seed.sql",
+              "RelativeToolTip": "Data\\Scripts\\03_seed.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-15T08:26:31.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "02_tables.sql ",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Data\\Scripts\\02_tables.sql",
+              "RelativeDocumentMoniker": "Data\\Scripts\\02_tables.sql",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Data\\Scripts\\02_tables.sql",
+              "RelativeToolTip": "Data\\Scripts\\02_tables.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-15T07:52:58.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "01_create_db.sql ",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Data\\Scripts\\01_create_db.sql",
+              "RelativeDocumentMoniker": "Data\\Scripts\\01_create_db.sql",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Data\\Scripts\\01_create_db.sql",
+              "RelativeToolTip": "Data\\Scripts\\01_create_db.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-15T07:46:59.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CollegeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\Data\\CollegeDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\CollegeDbContext.cs",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\Data\\CollegeDbContext.cs",
+              "RelativeToolTip": "Data\\CollegeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T09:31:04.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "index-Dn8D_cAp.js",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\wwwroot\\assets\\index-Dn8D_cAp.js",
+              "RelativeDocumentMoniker": "wwwroot\\assets\\index-Dn8D_cAp.js",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\wwwroot\\assets\\index-Dn8D_cAp.js",
+              "RelativeToolTip": "wwwroot\\assets\\index-Dn8D_cAp.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAmFAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-21T13:50:08.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "index-BNB5zV6G.css",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\wwwroot\\assets\\index-BNB5zV6G.css",
+              "RelativeDocumentMoniker": "wwwroot\\assets\\index-BNB5zV6G.css",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\wwwroot\\assets\\index-BNB5zV6G.css",
+              "RelativeToolTip": "wwwroot\\assets\\index-BNB5zV6G.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-21T13:50:04.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "College.Api",
+              "DocumentMoniker": "C:\\Users\\saafy\\College.Api\\College.Api.csproj",
+              "RelativeDocumentMoniker": "College.Api.csproj",
+              "ToolTip": "C:\\Users\\saafy\\College.Api\\College.Api.csproj",
+              "RelativeToolTip": "College.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-21T18:08:07.196Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
