@@ -1,0 +1,41 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Visual Studio / JetBrains
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET / ASP.NET build
+**/bin/
+**/obj/
+**/TestResults/
+**/Logs/
+*.pdb
+*.mdb
+*.cache
+*.log
+
+# Fichiers temporaires Visual Studio
+*.vsidx
+*.v2
+
+# Frontend / Node
+**/node_modules/
+**/build/
+**/dist/
+**/.next/
+**/.turbo/
+**/.parcel-cache/
+**/.vite/
+**/.eslintcache
+**/coverage/
+
+# Environnements
+**/.env
+**/.env.local
+**/.env.*.local

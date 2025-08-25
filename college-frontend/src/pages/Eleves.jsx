@@ -121,7 +121,7 @@ export default function Eleves() {
   };
 
   const showNotes = async (eleveId) => {
-    setSelectedEleve(eleveId);
+    setSelectedEleve( eleves.find(e => e.id === eleveId) ? `${eleves.find(e => e.id === eleveId).prenom} ${eleves.find(e => e.id === eleveId).nom}` : "Inconnu");
     try {
       const data = await elevesService.GetstudentNotes(eleveId);
       setNotes(data);
